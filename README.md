@@ -1,7 +1,6 @@
 # Extreme-Learning-Machine method
 
-一、基本思想
-极限学习机(Extreme Learning Machine,ELM)由Guang-Bin Huang等[1]提出的用于求解单隐层神经网络的算法。
+一、基本思想:极限学习机(Extreme Learning Machine,ELM)由Guang-Bin Huang等[1]提出的用于求解单隐层神经网络的算法。
 
 
 二、特点：
